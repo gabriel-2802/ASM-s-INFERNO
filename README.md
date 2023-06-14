@@ -1,4 +1,4 @@
-# ASM's-HELL - copyright Carauleanu Valentin Gabriel 311CAb 2022-2023
+# ASM's-INFERNO - copyright Carauleanu Valentin Gabriel 311CA
 
 My final programming II homework written in assembly.
 
